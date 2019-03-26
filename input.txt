@@ -1,0 +1,10 @@
+N 100
+no_chains 2
+boxsize 70
+atom_types 2
+bond_types 2
+angle_types 1
+mass1 1
+mass2 1
+chain_bond 1.0
+H_bond 1.1
