@@ -48,6 +48,7 @@ group polymer type 1 2
 ###
 dump   id all atom 10000 dump.denaturation.0.1
 ## CHANGE NAME TO dump.denaturation.<Umin> TO ORGANISE DUMP FILES FOR DIFFERENT VALUES ##
+## CHANGE VALUE BEFORE DUMPFILE NAME TO PRINT DATA TO FILE FOR DIFFERENT FREQUENCY OF TIMESTEPS ## 
 
 ###################################################################
 # Stiffness term
